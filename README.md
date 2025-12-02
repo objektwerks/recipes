@@ -8,7 +8,7 @@
 3. 9 grams sea salt ( 2 teaspoons ).
 4. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
 
-Dough
+**Dough**
 
 Pour 100 ( +- 10 ) degree water into a bowl — and stir in the yeast.
 Add half of the flour and mix well until a smooth consistency.
