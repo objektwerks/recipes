@@ -1,7 +1,7 @@
 12” Pizza Recipe
 ----------------
 
-Ingredients
+**Ingredients**
 
 162 grams water @ 100 degrees, which is 60% hydration.
 270 grams flour.
