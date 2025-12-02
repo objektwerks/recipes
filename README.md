@@ -37,5 +37,5 @@
 
 **Baking**
 
-Set oven timer for 6+ minutes. [ optionally set phone timer for visual confirmation ]
-Remove pizza from oven; and slice.
+1. Set oven timer for 6+ minutes. [ optionally set phone timer for visual confirmation ]
+2. Remove pizza from oven; and slice.
