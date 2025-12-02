@@ -31,7 +31,7 @@
 
 **Toppings**
 
-1. Add tomatoes and mozzarella to dough.
+1. Add tomatoes and mozzarella.
 2. Optionally add additional toppings.
 
 **Baking**
