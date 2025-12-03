@@ -39,8 +39,9 @@
 
 **Baking**
 
-1. Place pizza on pizza peel ***or*** pizza pan - slide pizza into oven.
-2. Set timer @ 3+ minutes.
-3. Inspect pizza intermittingly.
-4. Remove pizza from oven and slice.
+1. Spread flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
+2. Place pizza on pizza peel ***or*** pizza pan - slide pizza into oven.
+3. Set timer @ 3+ minutes.
+4. Inspect pizza intermittingly.
+5. Remove pizza from oven and slice.
 >Expect 3 - 9 minutes, depending on oven type and temperature.
