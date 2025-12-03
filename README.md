@@ -26,7 +26,7 @@
 **Shaping**
 
 1. Spread flour on board.
-2. Place dough ball on board; and sprinkle flour on dough ball.
+2. Place dough ball on board - sprinkle flour on dough ball.
 3. Shape dough into 12” circle, gently using fingers, hands and/or roller.
 4. Pre-heat [ pizza ] oven @ 550+ degrees.
 
