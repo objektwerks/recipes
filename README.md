@@ -39,4 +39,4 @@
 
 1. Place pizza on pizza peel ***or*** in a pizza pan - slide pizza into oven.
 2. Set oven timer for 3+ minutes. [ optionally set phone timer for visual confirmation ]
-3. Remove pizza from oven; and slice.
+3. Remove pizza from oven and slice.
