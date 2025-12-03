@@ -8,7 +8,7 @@
 2. 270 grams flour ( 1 and 1/8 cups ).
 3. 9 grams sea salt ( 2 teaspoons ).
 4. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
->Master pizza makers are capable of using less flour and water.
+>Master pizza makers are capable of using less water and flour.
 
 **Dough**
 
