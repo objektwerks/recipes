@@ -34,14 +34,14 @@
 
 **Toppings**
 
-1. Add tomatoes and mozzarella.
-2. Optionally add extra toppings and seasonings.
+1. Spread flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
+2. Place shaped dough on pizza peel ***or*** pizza pan.
+3. Add tomatoes and mozzarella.
+4. Optionally add extra toppings and seasonings.
 
 **Baking**
 
-1. Spread flour ***or*** cornmeal on pizza peel ***or*** pizza pan.
-2. Place pizza on pizza peel ***or*** pizza pan - slide pizza into oven.
-3. Set timer @ 3+ minutes.
-4. Inspect pizza intermittingly.
-5. Remove pizza from oven and slice.
+1. Set timer @ 3+ minutes.
+2. Inspect pizza intermittingly.
+3. Remove pizza from oven and slice.
 >Expect 3 - 9 minutes, depending on oven type and temperature.
