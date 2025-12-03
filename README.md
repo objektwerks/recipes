@@ -38,6 +38,7 @@
 2. Place shaped dough on pizza peel ***or*** pizza pan.
 3. Add tomatoes and mozzarella.
 4. Optionally add extra toppings and seasonings.
+>Optionally make pizza on board - then place on pizza peel ***or*** pizza pan.
 
 **Baking**
 
