@@ -4,7 +4,7 @@
 
 **Ingredients**
 
-1. 156 grams water @ 100 degrees ( +- 10 ), @ 60% hydration ( 2/3 cup ).
+1. 156 grams water @ 100F / 37C degrees, @ 60% hydration ( 2/3 cup ).
 2. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
 3. 260 grams flour ( 2 1/6 cups ).
 4. 9 grams sea salt ( 2 teaspoons ).
@@ -14,7 +14,7 @@
 
 **Dough**
 
-1. Pour 100 degree water ( +- 10 ) into a bowl - stir in yeast.
+1. Pour 100F / 37C degree water into a bowl - stir in yeast.
 2. Add half of flour - mix well into smooth consistency.
 3. Add sea salt - continue mixing.
 4. Add remainder of flour - over one or two rounds - continue mixing.
