@@ -9,7 +9,7 @@
 3. 9 grams sea salt ( 2 teaspoons ).
 4. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
 5. 113 grams pizza sauce ( 1/2 cup ).
-6. 170 grams mozzarella ( 1 1/2 cups ).
+6. 170 grams shredded mozzarella ( 1 3/4 cups ).
 >Master pizza makers are capable of using less water and flour.
 
 **Dough**
