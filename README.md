@@ -4,7 +4,7 @@
 
 **Ingredients**
 
-1. 156 grams water @ 100F / 37C degrees, @ 60% hydration ( 2/3 cup ).
+1. 144 grams water @ 100F / 37C degrees, @ 60% hydration ( 2/3 cup ).
 2. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
 3. 240 grams flour ( 1 cup ).
 4. 9 grams sea salt ( 2 teaspoons ).
