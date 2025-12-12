@@ -6,7 +6,7 @@
 
 1. 156 grams water @ 100F / 37C degrees, @ 60% hydration ( 2/3 cup ).
 2. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
-3. 260 grams flour ( 2 1/6 cups ).
+3. 240 grams flour ( 2 1/6 cups ).
 4. 9 grams sea salt ( 2 teaspoons ).
 5. 113 grams pizza sauce ( 1/2 cup ).
 6. 170 grams shredded mozzarella ( 1 3/4 cups ).
