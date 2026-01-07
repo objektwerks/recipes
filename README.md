@@ -1,4 +1,4 @@
 Recipes
 -------
-* [Atisan Bread](./artisan.bread)
+* [Artisan Bread](./artisan.bread)
 * [Pizza](./pizza.md)
