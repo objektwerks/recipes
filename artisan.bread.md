@@ -20,7 +20,7 @@ Artisan Bread Recipes
 **Sourdough Ingredients**
 
 1. 310 grams water @ 100F / 37C degrees ( 1 1/3 cup ).
-2. 405 grams bread flour ( 3 cups ).
+2. 405 grams bread flour ( 3 1/4 cups ).
 3. 90 grams sourdough starter ( 1/2 cup ).
 4. 7 grams sea salt ( 2 teaspoons ).
 
