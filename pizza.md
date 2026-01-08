@@ -11,6 +11,16 @@
 5. 113 grams pizza sauce ( 1/2 cup ).
 6. 170 grams shredded mozzarella ( 1 3/4 cups ).
 
+**Sourdough Ingredients**
+
+1. 144 grams water @ 100F / 37C degrees, @ 60% hydration ( 3/5 cup ).
+2. 1 gram yeast ( fresh, active or instant ) ( 1/4 teaspoon ).
+3. 40 grams sourdough starter ( 1/4 cup )
+4. 200 grams 00 piza flour ( 1 cup ).
+5. 7 grams sea salt ( 2 teaspoons ).
+6. 113 grams pizza sauce ( 1/2 cup ).
+7. 170 grams shredded mozzarella ( 1 3/4 cups ).
+
 **Dough**
 
 1. Pour water @ 100F / 37C degrees into a bowl - stir in yeast.
