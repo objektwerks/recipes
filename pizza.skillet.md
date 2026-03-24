@@ -6,7 +6,7 @@ Ingredients
 -----------
 1. 140 grams water @ 100F / 37C degrees, @ 70% hydration.
 2. 3 grams yeast ( 1 teaspoon ).
-3. 200 grams 00 pizza flour.
+3. 200 grams bread or 00 pizza flour.
 4. 3 grams sea salt ( 1 teaspoon ).
 
 Dough
