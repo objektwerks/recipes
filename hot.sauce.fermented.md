@@ -31,7 +31,6 @@ Blend
 3. Add vinegar.
 4. Slice lime; and squeeze into blender.
 5. Blend to desired consistency, optionally adding brine as required.
-6. Optionally add 1+ teaspoons of oil to thicken the sauce.
 
 Bottle
 ------
