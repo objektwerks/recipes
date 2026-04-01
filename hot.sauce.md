@@ -24,4 +24,4 @@ Blend
 1. Place ingredients in blender.
 2. Slice lime; and squeeze into blender.
 3. Pour water into blender.
-4. 
+4. Pout vinegar into blender.
