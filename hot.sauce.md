@@ -29,6 +29,13 @@ Blend
 5. Blend to desired consistency.
 >Optionally add 1+ teaspoons of oil to thicken the hot sauce.
 
+Cook
+----
+1. Place blended hot sauce in pot.
+2. Bring to boil; then simmer for 15+ minutes.
+3. Allow hot sauce to cool.
+>This phase is optional.
+
 Bottle
 ------
 1. Pour or filter hot sauce into ***3*** 5 ounce jars or alternate container(s).
