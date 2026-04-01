@@ -4,6 +4,7 @@ Recipes
 * [Artisan Bread](./bread.artisan.md)
 * [Poolish Bread](./bread.poolish.md)
 * [Chili](./chili.md)
+* [Hot Sauce](./hot.sauce.md)
 * [Kimchi](./kimchi.md)
 * [Kimchi Pancake](./kimchi.pancake.md)
 * [Kimchi Rice](./kimchi.rice.md)
