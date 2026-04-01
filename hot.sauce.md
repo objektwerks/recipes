@@ -12,6 +12,7 @@ Ingredients
 6. 1/4 cup vinegar.
 7. 1 lime.
 8. 6 grams sea salt.
+>Consider using less water and vinegar. You can always add some later.
 
 Preparation
 -----------
