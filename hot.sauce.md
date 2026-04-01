@@ -5,7 +5,7 @@ Hot Sauce Recipe
 Ingredients
 -----------
 1. 227 grams / 8 ounces of peppers.
-2. 1 small onion.
+2. 1 small onion ( or 1/2 large onion ).
 3. 3-4 cloves of garlic.
 4. 4 sprigs of cilantro.
 5. 1/4 cup of water.
