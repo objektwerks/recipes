@@ -18,3 +18,10 @@ Preparation
 1. Remove stems from peppers.
 2. Dice onion.
 3. Dice garlic.
+
+Blend
+-----
+1. Place ingredients in blender.
+2. Slice lime; and squeeze into blender.
+3. Pour water into blender.
+4. 
