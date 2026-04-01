@@ -23,7 +23,7 @@ Preparation
 Blend
 -----
 1. Place ingredients in blender.
-2. Optionally slice lime; and squeeze into blender.
+2. Slice lime; and squeeze into blender.
 3. Pour water into blender.
 4. Pour vinegar into blender.
 5. Blend to desired consistency.
