@@ -14,7 +14,7 @@ Preparation
 -----------
 1. Slice peppers, removing stems.
 2. Slice onion.
-3. Slice garlic.
+3. Peel garlic cloves.
 
 Fermentation
 ------------
