@@ -10,6 +10,7 @@ Ingredients
 4. 6 sprigs of cilantro ( optional ).
 5. 1/2 cup vinegar.
 6. 2 limes.
+7. 6 grams sea salt.
 
 Preparation
 -----------
