@@ -32,4 +32,8 @@ Blend
 4. Slice lime; and squeeze into blender.
 5. Blend to desired consistency, optionally adding brine as required.
 6. Optionally add 1+ teaspoons of olive oil to thicken the sauce.
->Yields six 5 ounce jars of hot sauce.
+
+Bottle
+------
+1. Filter hot sauce into 6 5 ounce jars.
+2. Store in pantry or frig ( if olive oil not used ).
