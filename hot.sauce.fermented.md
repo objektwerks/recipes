@@ -24,3 +24,7 @@ Fermentation
 2. Add 4 tablespoons of kosher or sea salt.
 3. Add 4 cups of water.
 4. Ferment for 1 to 3 weeks.
+
+Blend
+-----
+1. Remove the fermented peppers, onion and garlic from container, saving the brine.
