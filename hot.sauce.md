@@ -26,4 +26,4 @@ Blend
 3. Pour water into blender.
 4. Pour vinegar into blender.
 5. Blend to desired consistency.
->Yields 3 5 ounce jars of hot sauce.
+>Yields three 5 ounce jars of hot sauce.
