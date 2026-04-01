@@ -1,3 +1,8 @@
 Hot Sauce Recipe
 ----------------
 >Basic hot sauce recipe.
+
+Ingredients
+-----------
+1. 227 grams / 8 ounces of peppers.
+2. 
