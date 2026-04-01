@@ -27,4 +27,5 @@ Blend
 3. Pour water into blender.
 4. Pour vinegar into blender.
 5. Blend to desired consistency.
+6. Optionally add 1+ teaspoons of olive oil to thicken the sauce.
 >Yields three 5 ounce jars of hot sauce.
