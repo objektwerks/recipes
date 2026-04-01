@@ -12,3 +12,9 @@ Ingredients
 6. 1/4 cup vinegar.
 7. 1 lime.
 8. 6 grams sea salt.
+
+Preparation
+-----------
+1. Remove stems from peppers.
+2. Dice onion.
+3. Dice garlic.
