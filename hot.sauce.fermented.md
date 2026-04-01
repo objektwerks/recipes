@@ -31,6 +31,13 @@ Blend
 4. Squeeze sliced lime into blender.
 5. Blend to desired consistency, optionally adding brine as required.
 
+Cook
+----
+1. Place blended hot sauce in pot.
+2. Bring to boil; then simmer for 15+ minutes.
+3. Allow hot sauce to cool.
+>This phase is optional.
+
 Bottle
 ------
 1. Pour or filter hot sauce into ***6*** 5 ounce jars or alternate container(s).
