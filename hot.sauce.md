@@ -32,3 +32,4 @@ Blend
 Bottle
 ------
 1. Filter hot sauce into 3 5 ounce jars.
+2. Store in pantry or frig ( if olive oil not used ).
