@@ -25,3 +25,4 @@ Blend
 2. Slice lime; and squeeze into blender.
 3. Pour water into blender.
 4. Pour vinegar into blender.
+5. Blend to desired consistency.
