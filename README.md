@@ -5,6 +5,7 @@ Recipes
 * [Poolish Bread](./bread.poolish.md)
 * [Chili](./chili.md)
 * [Hot Sauce](./hot.sauce.md)
+* [Fermented Hot Sauce](./hot.sauce.fermented.md)
 * [Kimchi](./kimchi.md)
 * [Kimchi Pancake](./kimchi.pancake.md)
 * [Kimchi Rice](./kimchi.rice.md)
