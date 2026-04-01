@@ -8,11 +8,9 @@ Ingredients
 2. 1/2 large onion.
 3. 3-4 cloves of garlic.
 4. 4 sprigs of cilantro ( optional ).
-5. 1/4 cup of water.
-6. 1/4 cup vinegar.
-7. 1 lime.
-8. 6 grams sea salt.
->Consider using less water and vinegar. You can always add some later.
+5. 1/4 cup vinegar.
+6. 1 lime.
+7. 6 grams sea salt.
 
 Preparation
 -----------
