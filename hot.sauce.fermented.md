@@ -8,9 +8,8 @@ Ingredients
 2. 1/2 large onion.
 3. 6 cloves of garlic.
 4. 6 sprigs of cilantro ( optional ).
-5. 1/2 cup of water.
-6. 1/2 cup vinegar.
-7. 2 limes.
+5. 1/2 cup vinegar.
+6. 2 limes.
 
 Preparation
 -----------
