@@ -30,3 +30,4 @@ Blend
 2. Place fermented peppers, onion and garlic in blender.
 3. Add vinegar.
 4. Slice lime; and squeeze into blender.
+5. Optionally add brine to obtain desired consistency.
