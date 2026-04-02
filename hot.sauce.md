@@ -14,7 +14,7 @@ Preparation
 
 Cook
 ----
-1. Place peppers, onion and garlic in pot.
+1. Add peppers, vinegar and salt to pot.
 2. Bring to boil; then simmer for 15 minutes.
 3. Allow sauce to cool.
 >Optionally ***roast*** peppers, onion and garlic.
