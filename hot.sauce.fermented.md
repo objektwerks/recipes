@@ -42,3 +42,5 @@ Bottle
 ------
 1. Pour or filter hot sauce into ***6*** 5 ounce jars or alternate container(s).
 2. Store in pantry or frig.
+>Alternately, don't cook the blended hot sauce and don't bottle it. Allow it to continue
+>fermenting in the frig, only extracting a bottle as needed. Store the bottle in the frig.
