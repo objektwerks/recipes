@@ -25,8 +25,7 @@ Blend
 -----
 1. Remove the fermented peppers, onion and garlic from fermentation container, saving the brine.
 2. Place fermented peppers, onion and garlic in blender.
-3. Squeeze sliced lime into blender.
-4. Blend to desired consistency, optionally adding brine as required.
+3. Blend to desired consistency, optionally adding brine as required.
 
 Bottle
 ------
