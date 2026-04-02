@@ -19,9 +19,11 @@ Preparation
 3. Dice garlic.
 >Optionally ***roast*** peppers, onion and garlic.
 
-Note
+Cook
 ----
->Some cooks ***cook*** before they ***blend*** and vice versa.
+1. Place blended sauce in pot.
+2. Bring to boil; then simmer for 15+ minutes.
+3. Allow sauce to cool.
 
 Blend
 -----
@@ -29,13 +31,6 @@ Blend
 2. Squeeze sliced lime into blender.
 3. Pour vinegar into blender.
 4. Blend to desired consistency.
-
-Cook
-----
-1. Place blended sauce in pot.
-2. Bring to boil; then simmer for 15+ minutes.
-3. Allow sauce to cool.
->This phase, which melds flavors and eliminates excess liquid, is ***optional***.
 
 Bottle
 ------
