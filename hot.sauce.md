@@ -19,6 +19,10 @@ Preparation
 3. Dice garlic.
 >Optionally ***roast*** peppers, onion and garlic.
 
+Note
+----
+>Some cooks ***cook*** before they ***blend*** and vice versa.
+
 Blend
 -----
 1. Place ingredients in blender.
