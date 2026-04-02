@@ -36,4 +36,4 @@ Cook
 Bottle
 ------
 1. Pour or filter hot sauce into ***3*** 5 ounce jars or alternate container(s).
-2. Store in pantry or frig ( if oil ***not*** used ).
+2. Store in pantry or frig.
