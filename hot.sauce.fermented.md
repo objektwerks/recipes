@@ -8,7 +8,7 @@ Ingredients
 2. 1/2 large onion.
 3. 6 cloves of garlic.
 4. 6 sprigs of cilantro.
-5. 2 limes.
+5. 1 lime.
 
 Preparation
 -----------
