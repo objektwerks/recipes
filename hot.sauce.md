@@ -21,10 +21,7 @@ Cook
 
 Blend
 -----
-1. Place ingredients in blender.
-2. Squeeze sliced lime into blender.
-3. Pour vinegar into blender.
-4. Blend to desired consistency.
+1. Place ingredients in blender, and blend to desired consistency.
 
 Bottle
 ------
