@@ -7,7 +7,7 @@ Ingredients
 1. 454 grams / 16 ounces of peppers.
 2. 1/2 large onion.
 3. 6 cloves of garlic.
-4. 6 sprigs of cilantro ( optional ).
+4. 6 sprigs of cilantro.
 5. 2 limes.
 
 Preparation
