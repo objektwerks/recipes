@@ -33,10 +33,11 @@ Cook
 ----
 1. Place blended hot sauce in pot.
 2. Bring to boil; then simmer for 15+ minutes.
-3. Allow hot sauce to cool.
+3. Allow sauce to cool.
 >This phase, which melds flavors, eliminates excess liquid and ***stops fermentation***, is ***optional***.
 
 Bottle
 ------
-1. Pour or filter hot sauce into ***6*** 5 ounce jars or alternate container(s).
-2. Store in frig.
+1. Optionally strain sauce, separating pulp from sauce.
+2. Pour sauce into ***6*** 5 ounce jars or alternate container(s).
+3. Store in frig.
