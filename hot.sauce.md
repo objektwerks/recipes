@@ -19,7 +19,7 @@ Cook
 
 Blend
 -----
-1. Place ingredients in blender, and blend to desired consistency.
+1. Place cooked ingredients in blender, and blend to desired consistency.
 
 Bottle
 ------
