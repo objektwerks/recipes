@@ -22,6 +22,10 @@ Fermentation
 3. Add 4 cups of water.
 4. Ferment for 1 to 2+ weeks.
 
+Note
+----
+>Some cooks ***cook*** before they ***blend*** and vice versa.
+
 Blend
 -----
 1. Remove the fermented peppers, onion and garlic from fermentation container, saving the brine.
