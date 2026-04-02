@@ -11,8 +11,6 @@ Ingredients
 Preparation
 -----------
 1. Slice peppers, removing stems.
-2. Dice onion.
-3. Dice garlic.
 
 Cook
 ----
