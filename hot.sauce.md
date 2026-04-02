@@ -9,8 +9,8 @@ Ingredients
 3. 4 cloves of garlic.
 4. 4 sprigs of cilantro.
 5. 1/4 cup vinegar.
-6. 1 lime.
-7. 6 grams sea salt.
+6. 6 grams sea salt.
+7. 1 lime.
 
 Preparation
 -----------
