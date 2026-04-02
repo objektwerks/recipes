@@ -14,7 +14,7 @@ Ingredients
 
 Preparation
 -----------
-1. Remove stems from peppers.
+1. Remove stems from peppers and slice.
 2. Dice onion.
 3. Dice garlic.
 >Optionally ***roast*** peppers, onion and garlic.
