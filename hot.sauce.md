@@ -17,13 +17,13 @@ Preparation
 1. Slice peppers, removing stems.
 2. Dice onion.
 3. Dice garlic.
->Optionally ***roast*** peppers, onion and garlic.
 
 Cook
 ----
-1. Place blended sauce in pot.
+1. Place peppers, onion and garlic in pot.
 2. Bring to boil; then simmer for 15+ minutes.
 3. Allow sauce to cool.
+>Optionally ***roast*** peppers, onion and garlic.
 
 Blend
 -----
