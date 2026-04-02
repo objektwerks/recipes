@@ -23,9 +23,8 @@ Blend
 -----
 1. Place ingredients in blender.
 2. Squeeze sliced lime into blender.
-3. Pour water into blender.
-4. Pour vinegar into blender.
-5. Blend to desired consistency.
+3. Pour vinegar into blender.
+4. Blend to desired consistency.
 >Optionally add 1+ teaspoons of oil to thicken the hot sauce.
 
 Cook
