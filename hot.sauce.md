@@ -14,7 +14,7 @@ Preparation
 
 Cook
 ----
-1. Add peppers, vinegar and salt to pot.
+1. Add ingredients to pot.
 2. Bring to boil; then simmer for 15 minutes.
 
 Blend
