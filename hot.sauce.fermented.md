@@ -20,7 +20,7 @@ Fermentation
 1. Place peppers, onion and garlic into fermentation container.
 2. Add 4 tablespoons of kosher / sea salt.
 3. Add 4 cups of water.
-4. Ferment for 1 to 4+ weeks.
+4. Ferment for 1 to 2+ weeks.
 
 Blend
 -----
