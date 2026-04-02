@@ -31,7 +31,7 @@ Cook
 1. Place blended hot sauce in pot.
 2. Bring to boil; then simmer for 15+ minutes.
 3. Allow hot sauce to cool.
->This phase is optional.
+>This phase, which melds flavors and eliminates excess liquid, is optional.
 
 Bottle
 ------
