@@ -22,23 +22,12 @@ Fermentation
 3. Add 4 cups of water.
 4. Ferment for 1 to 2+ weeks.
 
-Note
-----
->Some cooks ***cook*** before they ***blend*** and vice versa.
-
 Blend
 -----
 1. Remove the fermented peppers, onion and garlic from fermentation container, saving the brine.
 2. Place fermented peppers, onion and garlic in blender.
 3. Squeeze sliced lime into blender.
 4. Blend to desired consistency, optionally adding brine as required.
-
-Cook
-----
-1. Place blended hot sauce in pot.
-2. Bring to boil; then simmer for 15+ minutes.
-3. Allow sauce to cool.
->This phase, which melds flavors, eliminates excess liquid and ***stops fermentation***, is ***optional***.
 
 Bottle
 ------
