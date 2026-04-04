@@ -24,7 +24,7 @@ Fermentation
 Blend
 -----
 1. Place fermented peppers, onion and garlic in blender, saving the brine.
-2. Blend to desired consistency, optionally adding brine as required.
+2. Blend to desired consistency, adding brine as required.
 
 Bottle
 ------
