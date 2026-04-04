@@ -30,4 +30,4 @@ Bottle
 ------
 1. Optionally strain sauce, separating pulp from sauce.
 2. Pour sauce into ***6*** 5 ounce jars or alternate container(s).
-3. Store in frig or pantry.
+3. Store in frig.
