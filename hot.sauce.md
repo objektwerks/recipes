@@ -20,7 +20,7 @@ Cook
 Blend
 -----
 1. Place cooked ingredients in blender.
-2. Blend to desired consistency, adding vinegar if required.
+2. Blend to desired consistency, adding vinegar as required.
 
 Bottle
 ------
