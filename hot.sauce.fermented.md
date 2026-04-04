@@ -19,7 +19,7 @@ Fermentation
 1. Place ingredients in fermentation container.
 2. Add 4 cups of water.
 3. Add 2 tablespoons of kosher salt.
-4. Ferment for 1 to 2+ weeks.
+4. Ferment for 1-2+ weeks.
 
 Blend
 -----
