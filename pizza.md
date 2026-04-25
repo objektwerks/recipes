@@ -24,7 +24,7 @@ Fermentation
 1. Add olive oil to bottom of coverable container.
 2. Place dough ball in coverable container - then cover.
 3. Ferment dough ball for 2+ hours @ room temperature.
->Optionally, ferment dough ball overnight in frig.
+>Optionally, ferment dough ball overnight in fridge.
 
 Shape
 -----
