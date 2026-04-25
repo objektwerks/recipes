@@ -18,7 +18,7 @@ Poolish Fermentation
 --------------------
 1. Cover bowl.
 2. Ferment 2 hours @ room temperature.
-3. Ferment 12 to 24 hours in frig.
+3. Ferment 12 to 24 hours in fridge.
 
 Dough Ingredients
 -----------------
