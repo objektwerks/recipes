@@ -1,6 +1,6 @@
 Poolish Pizza
 -------------
->Basic 12" poolish pizza recipe. [Bread Calculator Result](https://www.breadfriend.com/?totalWeight=250&hydration=60&salt=1&prefermentType=%27poolish%27&poolishPercentage=30)
+>Basic 12" poolish pizza recipe. [Bread Calculator Result](https://www.breadfriend.com/?totalWeight=300&hydration=60&salt=1&prefermentType=%27poolish%27&poolishPercentage=30)
 
 Poolish Ingredients
 -------------------
