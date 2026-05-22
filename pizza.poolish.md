@@ -23,7 +23,7 @@ Poolish Fermentation
 Dough Ingredients
 -----------------
 1. 56 grams cold water, @ 30% hydration.
-2. 3 grams yeast ( 1 teaspoon ).
+2. 2 grams yeast ( 1/2 teaspoon ).
 3. 130 grams 00 pizza flour.
 4. 3 grams sea salt ( 1 teaspoon ).
 
