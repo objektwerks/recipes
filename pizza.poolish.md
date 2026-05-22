@@ -5,7 +5,7 @@ Poolish Pizza
 Poolish Ingredients
 -------------------
 1. 56 grams water @ 100F / 37C degrees, @ 100% hydration.
-2. 3 grams yeast ( 1 teaspoon ).
+2. 2 grams yeast ( 1/2 teaspoon ).
 3. 56 grams 00 pizza flour.
 
 Poolish
