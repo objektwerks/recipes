@@ -57,5 +57,5 @@ Bake
 Crust
 -----
 >If the crust is still not brown and crispy:
-1. Heat stove burner @ medium heat.
+1. Heat stove burner @ medium-low heat.
 2. Place skillet on burner until crust is brown and crispy.
