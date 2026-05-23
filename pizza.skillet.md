@@ -45,7 +45,7 @@ Toppings
 Build
 -----
 1. Add toppings and seasonings.
->Optionally, add shredded mozarella first.
+>Optionally, add shredded mozarella first for this style.
 
 Bake
 ----
