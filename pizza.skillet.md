@@ -53,10 +53,9 @@ Bake
 3. Inspect pizza crust and top intermittingly.
 4. Remove skillet lid from skillet and bake @ 3-5 minutes.
 5. Remove skillet from oven.
-6. Let pizza rest in skillet for 3-5 minutes.
 
 Crust
 -----
->If the crust is not brown and crispy:
+>If the crust is still not brown and crispy:
 1. Heat stove burner @ medium heat.
 2. Place skillet on burner until crust is brown and crispy.
