@@ -31,8 +31,6 @@ Shape
 1. Spread olive oil in skillet.
 2. Place dough in skillet.
 3. Stretch dough evenly thoughout skillet.
-4. Cover baking pan for 1 hour.
-5. Stretch dough as required.
 
 Oven
 ----
