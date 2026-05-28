@@ -18,8 +18,9 @@ Cook
 
 Blend
 -----
-1. Place cooked ingredients in blender.
-2. Blend to desired consistency, adding vinegar as required.
+1. Place roasted peppers in blender.
+2. Add vinegar.
+3. Blend to desired consistency, adding vinegar as required.
 
 Bottle
 ------
