@@ -14,9 +14,7 @@ Preparation
 
 Cook
 ----
-1. Add ingredients to pot.
-2. Bring to boil; then simmer for 15 minutes.
->Optionally, roast/char peppers in oven @475 for 15+ minutes.
+1. Roast peppers in oven @475 for 15+ minutes.
 
 Blend
 -----
