@@ -24,5 +24,5 @@ Blend
 
 Bottle
 ------
-1. Pour hot sauce into ***3+*** 5 ounce woozy jars or alternate container(s).
+1. Pour hot sauce into ***3+*** 5 ounce woozy bottles.
 2. Store in fridge or pantry.
