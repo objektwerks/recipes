@@ -10,7 +10,7 @@ Ingredients
 
 Preparation
 -----------
-1. Slice peppers, removing stems.
+1. Remove pepper stems.
 
 Cook
 ----
