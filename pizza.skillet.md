@@ -34,7 +34,7 @@ Shape
 
 Oven
 ----
-1. Pre-heat oven @ 450 degrees.
+1. Pre-heat oven @ 500 degrees.
 >Optionally place skillet lid in oven.
 
 Toppings
