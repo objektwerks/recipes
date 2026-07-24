@@ -8,8 +8,6 @@ Ingredients
 2. Momoya Kimuchi no Moto **Kimchee Base** ( https://tinyurl.com/4a3wuucz )
 3. Gochujang ( Korean Hot Pepper Paste ) ( https://tinyurl.com/2s3bnr2e )
 4. Fish Sauce ( https://tinyurl.com/yrf73brc )
-5. Garlic
-6. Ginger
 
 Brine
 -----
