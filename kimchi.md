@@ -16,8 +16,8 @@ Preparation
 Brine
 -----
 1. Place sliced cabbage in a large bowl.
-2. Sprinkle kosher salt over cabbage in bowl.
-3. Add cool water to create a brine.
+2. Sprinkle kosher salt over cabbage.
+3. Fill bowl with cool water.
 4. Let the cabbage soak for 2+ hours.
 
 Sauce
