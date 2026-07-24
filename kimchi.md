@@ -11,7 +11,7 @@ Ingredients
 
 Brine
 -----
-1. Slice cabbage into bite-size pieces. ( Koreans tend to slice a napa cabbage into quarters )
+1. Slice cabbage into bite-size pieces.
 2. Place sliced cabbage in a bowl.
 3. Mix in cool water and kosher salt to create a brine.
 4. Let the cabbage soak for 2+ hours. ( Koreans tend to favor 6+ hours )
