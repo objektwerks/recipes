@@ -11,11 +11,10 @@ Ingredients
 
 Brine
 -----
-1. Silce cabbage into bite-size pieces.
-2. Place sliced cabbage in a large bowl.
-3. Sprinkle kosher salt over cabbage.
-4. Fill bowl with cool water.
-5. Let the cabbage soak for 2+ hours.
+1. Silce cabbage into bite-size pieces, and place in large bowl.
+2. Sprinkle kosher salt over cabbage.
+3. Fill bowl with cool water.
+4. Let the cabbage soak for 2+ hours.
 
 Sauce
 -----
