@@ -23,8 +23,8 @@ Sauce
 2. Mix in 2 tablespoons, or 30 grams, of gochujang.
 3. Mix in 2 tablespoons, or 30 grams, of fish sauce.
 
-Build
------
+Kimchi
+------
 1. Drain and rinse off cabbage, keeping cabbage in bowl.
 2. Place a portion of the drained cabbage in a bowl.
 3. Add 3+ tablespoons of kimchi sauce to cabbage.
