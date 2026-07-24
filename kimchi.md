@@ -22,7 +22,7 @@ Brine
 
 Sauce
 -----
-1. Pour 6+ oz of kimchi base in a bowl.
+1. Pour 6+ oz, or 170+ grams, of kimchi base in a bowl.
 2. Add 2 tablespoons of gochujang.
 3. Add 2 tablespoons of fish sauce.
 4. Mix thoroughly.
