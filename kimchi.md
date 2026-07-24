@@ -1,6 +1,6 @@
 Kimchi Recipe
 -------------
->Basic kimchi recipe. Study Korean chefs for ideas on how they make kimchi.
+>Basic kimchi recipe. Study Korean recipes for ideas on how they make kimchi.
 
 Ingredients
 -----------
