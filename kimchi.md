@@ -29,7 +29,7 @@ Build
 2. Place a portion of the drained cabbage in a bowl.
 3. Add 3+ tablespoons of kimchi sauce to cabbage.
 4. Mix kimchi sauce with cabbage.
-5. Place freshly sauced cabbage into a kimchi container.
+5. Place freshly sauced cabbage in a kimchi container.
 6. Repeat steps 2 to 5 as required.
 
 Fermentation
