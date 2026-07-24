@@ -20,8 +20,8 @@ Brine
 Sauce
 -----
 1. Pour 6+ oz, or 170+ grams, of kimchi base in a bowl.
-2. Mixin 2 tablespoons, or 30 grams, of gochujang.
-3. Mixin 2 tablespoons, or 30 grams, of fish sauce.
+2. Mix in 2 tablespoons, or 30 grams, of gochujang.
+3. Mix in 2 tablespoons, or 30 grams, of fish sauce.
 
 Build
 -----
@@ -35,6 +35,6 @@ Build
 Fermentation
 ------------
 1. Place kimchi container inside fridge.
-2. Allow kimchi to ferment for 3+ days before eating. ( ideally ferment for at least 7 days )
+2. Allow kimchi to ferment for 3+ days before eating. ( ideally ferment for 7 days )
 3. Eat kimchi.
 >For faster initial fermentation, place kimchi container in shaded kitchen area for 1-2 days.
