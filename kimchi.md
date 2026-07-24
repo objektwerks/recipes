@@ -40,6 +40,6 @@ Build
 Fermentation
 ------------
 1. Place kimchi container inside fridge.
-2. Allow kimchi to ferment for 3+ days. ( ideally ferment for at least 7 days )
+2. Allow kimchi to ferment for 3+ days before eating. ( ideally ferment for at least 7 days )
 3. Eat kimchi.
 >For faster initial fermentation, place kimchi container in shaded kitchen area for 1-2 days.
