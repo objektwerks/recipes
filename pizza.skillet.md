@@ -56,8 +56,12 @@ Bake
 4. Remove skillet lid from skillet and bake @ 3-5 minutes.
 5. Remove skillet from oven.
 
-Crust
------
->If the crust is still not brown and crispy:
+Alternate Bake
+--------------
 1. Heat stove burner @ medium-low heat.
-2. Place skillet on burner until crust is brown and crispy.
+2. Place skillet on burner until crust is light brown.
+3. Cover skillet with lid and place in oven.
+4. Bake @ 15 minutes.
+5. Inspect pizza crust and top intermittingly.
+6. Remove skillet lid from skillet and bake @ 3-5 minutes.
+7. Remove skillet from oven.
