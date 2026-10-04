@@ -51,11 +51,9 @@ Build
 
 Bake
 ----
-1. Cover skillet with lid and place in oven.
-2. Bake @ 15 minutes.
-3. Inspect pizza crust and top intermittingly.
-4. Remove skillet lid from skillet and bake @ 3-5 minutes.
-5. Remove skillet from oven.
+1. Bake @ 15+ minutes.
+2. Inspect pizza crust and top intermittingly.
+3. Remove skillet from oven.
 
 Alternate Bake
 --------------
