@@ -60,6 +60,7 @@ Alternate Bake
 --------------
 1. Heat stove burner @ medium-low heat.
 2. Place skillet on burner until crust is light brown, likely 3 minutes.
-3. Bake @ 15+ minutes.
-4. Inspect pizza crust and top intermittingly.
-5. Remove skillet from oven.
+3. Place skillet in oven.
+4. Bake @ 15+ minutes.
+5. Inspect pizza crust and top intermittingly.
+6. Remove skillet from oven.
