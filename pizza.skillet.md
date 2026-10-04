@@ -26,16 +26,17 @@ Fermentation
 2. Ferment dough ball for 2+ hours @ room temperature.
 >Optionally, ferment dough ball overnight in fridge.
 
-Shape
------
-1. Spread olive oil in skillet.
-2. Place dough in skillet.
-3. Stretch dough evenly thoughout skillet.
-
 Oven
 ----
 1. Pre-heat oven @ 500 degrees.
->Optionally place skillet in oven.
+2. Place skillet in oven.
+
+Shape
+-----
+1. Remove skillet from oven.
+2. Spread olive oil in skillet.
+3. Place dough in skillet.
+4. Stretch dough evenly thoughout skillet.
 
 Toppings
 --------
