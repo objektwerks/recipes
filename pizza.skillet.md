@@ -28,8 +28,8 @@ Fermentation
 
 Oven
 ----
-1. Pre-heat oven @ 500 degrees.
-2. Place skillet in oven.
+1. Place skillet in oven.
+2. Pre-heat oven @ 500 degrees.
 
 Shape
 -----
