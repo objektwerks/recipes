@@ -47,7 +47,7 @@ Bake
 4. Place Dutch oven in oven.
 5. Bake for 30 minutes.
 6. Remove lid from Dutch oven.
-7. Set timer @ 10 minutes.
+7. Bake for 10 minutes.
 8. Remove Dutch oven from oven.
 9. Remove bread from Dutch oven and place on cooling rack.
 10. Cool bread for 30+ minutes.
