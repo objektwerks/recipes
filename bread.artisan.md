@@ -45,7 +45,7 @@ Bake
 2. Place bread, contained in parchment paper or silicone bread sling, in Dutch oven.
 3. Place lid on Dutch oven.
 4. Place Dutch oven in oven.
-5. Set timer @ 30 minutes.
+5. Bake for 30 minutes.
 6. Remove lid from Dutch oven.
 7. Set timer @ 10 minutes.
 8. Remove Dutch oven from oven.
