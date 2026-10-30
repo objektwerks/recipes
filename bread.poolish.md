@@ -68,4 +68,4 @@ Bake
 7. Bake for 10 minutes.
 8. Remove Dutch oven from oven.
 9. Remove bread from Dutch oven and place on cooling rack.
-10. Cool bread for 30+ minutes.
+10. Cool bread for 15+ minutes.
