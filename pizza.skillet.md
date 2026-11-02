@@ -52,7 +52,7 @@ Build
 Bake
 ----
 1. Place skillet in oven.
-2. Bake @ 15+ minutes.
+2. Bake @ 10+ minutes.
 3. Inspect pizza crust and top intermittingly.
 4. Remove skillet from oven.
 
@@ -61,6 +61,6 @@ Alternate Bake
 1. Heat stove burner @ medium-low heat.
 2. Place skillet on burner until crust is light brown, likely 3 minutes.
 3. Place skillet in oven.
-4. Bake @ 15+ minutes.
+4. Bake @ 7+ minutes.
 5. Inspect pizza crust and top intermittingly.
 6. Remove skillet from oven.
