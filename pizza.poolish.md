@@ -55,7 +55,7 @@ Shape
 Oven
 ----
 1. Place pizza stone, steel or cast iron grill in oven, at lowest level.
-2. Pre-heat oven @ 450 degrees.
+2. Pre-heat oven @ 500 degrees.
 >Optionally, build pizza on a cold platform.
 
 Toppings
@@ -74,7 +74,7 @@ Build
 Bake
 ----
 1. Slide pizza pizza onto stone, steel or cast iron grill in oven.
-2. Bake @ 15 minutes.
+2. Bake @ 10+ minutes.
 3. Inspect and adjust pizza intermittingly.
 4. Remove pizza from oven.
 >Optionally, insert pizza, placed on a cold platform, in oven.
