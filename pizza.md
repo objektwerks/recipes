@@ -35,7 +35,7 @@ Shape
 Oven
 ----
 1. Place pizza stone, steel or cast iron grill in oven, at lowest level.
-2. Pre-heat oven @ 450 degrees.
+2. Pre-heat oven @ 450-500 degrees.
 
 Toppings
 --------
@@ -45,12 +45,12 @@ Toppings
 
 Build
 -----
-1. Place shaped dough on pizza screen.
+1. Place shaped dough on pizza peel or screen.
 2. Add toppings and seasonings.
 
 Bake
 ----
-1. Slide pizza screen onto stone, steel or cast iron grill in oven.
+1. Slide pizza onto stone, steel or cast iron grill in oven.
 2. Bake @ 10+ minutes.
 3. Inspect and adjust pizza intermittingly.
-4. Remove pizza screen from oven.
+4. Remove pizza from oven.
