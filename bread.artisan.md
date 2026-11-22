@@ -4,9 +4,9 @@ Artisan Bread Recipe
 
 Ingredients
 -----------
-1. 280 grams water @ 100F / 37C degrees, @ 70% hydration.
+1. 350 grams water @ 100F / 37C degrees, @ 70% hydration.
 2. 3 grams yeast ( 1 teaspoon ).
-3. 400 grams bread flour.
+3. 500 grams bread flour.
 4. 3 grams sea salt ( 1 teaspoon ).
 
 Dough
